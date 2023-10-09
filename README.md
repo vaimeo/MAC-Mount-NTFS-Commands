@@ -1,6 +1,6 @@
 
 
-# Mount NTFS Drive to Mac
+# Mount NTFS Drive to Mac With with Permissions!
 
 
 <img width="156" alt="image" src="https://github.com/vaimeo/MAC-Mount-NTFS-Commands/assets/3579069/2ca09401-1370-45ed-a7c1-87c8ad32c1f7">
