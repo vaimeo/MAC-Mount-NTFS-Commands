@@ -5,7 +5,12 @@
 
 <img width="156" alt="image" src="https://github.com/vaimeo/MAC-Mount-NTFS-Commands/assets/3579069/2ca09401-1370-45ed-a7c1-87c8ad32c1f7">
 
-Mac commands to mount any NTFS drive to enable write feature.
+Mac commands to mount any NTFS drive to enable write feature, you can follow the steps below or clone the repo on your Mac to run the automation.
+
+To run the script on mac just go to the terminal and call
+```
+ ./mount.sh
+```
 
 Lets assume your drive name is TOSHIBA EXT
 
